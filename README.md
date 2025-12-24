@@ -4,7 +4,7 @@ I'm a student who likes building things fast, breaking them faster, and learning
 Most of what I work on involves experimentation, automation, making stuff i need and trying out ideas until something sticks.
 
 ## 📊 Tech Stack
-- **Languages:** Python, C#(Basic, might make projects on it when i get a litte bit more used to it)
+- **Languages:** Python, C#(Basic)
 - **Tools:** Linux, PyQt
 - **Interests:** UI apps, Android custom ROMs and gaming ofcourse 👌
 

@@ -6,17 +6,17 @@ Most of what I work on involves experimentation, automation, making stuff i need
 ## 📊 Tech Stack
 - **Languages:** Python, C#, C (Basic)
 - **Tools:** Linux, PyQt
-- **Interests:** UI apps, Android custom ROMs and gaming ofcourse 👌
+- **Interests:** UI apps, Android custom ROMs and Gaming ofcourse 👌
 
 ## 🗂️ Projects
 - Check my repos for my work
 ---
 
 # 📰 News
-I wanted to give a quick update about the big project I’m working on. I’m currently participating in a game jam, and since it’s my first time making a full game, it’s been pretty challenging. Because of that, I haven’t been able to upload much recently. Once I get through the main development work, I’ll be back with more updates and new code!
+Game jam is over! It was a hell of a ride for my first full game, but it's done. Ill probably put out the link for it when i publish it. Now, I'm starting C to get ready for 42 Kocaeli. More code incoming.
 
 ---
 
 ## 📫 Contact
 - **GitHub Issues** or **Pull Requests** on any repo
-- I will add an email later on!
+- emir12311.dev@gmail.com

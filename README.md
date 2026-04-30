@@ -10,12 +10,9 @@ Most of what I work on involves experimentation, automation, making stuff i need
 
 ## 🗂️ Projects
 - Check my repos for my work
----
 
 # 📰 News
 Game jam is over! It was a hell of a ride for my first full game, but it's done. Ill probably put out the link for it when i publish it. Now, I'm starting C to get ready for 42 Kocaeli. More code incoming.
-
----
 
 ## 📫 Contact
 - **GitHub Issues** or **Pull Requests** on any repo

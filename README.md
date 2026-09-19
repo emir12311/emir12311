@@ -11,7 +11,7 @@ a prototype package manager for it by hand. Still learning, still breaking thing
 
 ## Repos worth looking at
 
-- **42-piscine-c** — my 42 Piscine C exercises
+- **42-piscine-c-exercises** — my 42 Piscine C exercises
 - **tournament-calculator** — my first C program, file I/O and pointers
 - **Son_Tohum** — a Godot 4 game I made for the Gebze "Dijital Kaşifler" game jam. Got 3rd place.
 

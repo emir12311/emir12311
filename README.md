@@ -5,13 +5,13 @@ program at Gölcük İhsaniye MTAL.
 
 ## Repos worth looking at
 
-- **webp-purger** — my first C polished project 
-- **tournament-calculator** — my first C program, file I/O and pointers
+- **lnetx** — CLI to file transfer over LAN
+- **webp-purger** — CLI to convert WebP's recursively
 - **Son_Tohum** — a Godot 4 game I made for the Gebze "Dijital Kaşifler" game jam. Got 3rd place.
 
 ## Languages and tools
 
-C, Python, C#, Linux, Git, Clang, PyQt
+C, Python, Linux, Git, Clang, PyQt
 
 ## Contact
 

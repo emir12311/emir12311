@@ -5,6 +5,7 @@ program at Gölcük İhsaniye MTAL.
 
 ## Repos worth looking at
 
+- **croquis** — Native and offline circuit simulator
 - **lnetx** — CLI to file transfer over LAN
 - **webp-purger** — CLI to convert WebP's recursively
 - **Son_Tohum** — a Godot 4 game I made for the Gebze "Dijital Kaşifler" game jam. Got 3rd place.

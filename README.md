@@ -16,5 +16,5 @@ C, Python, Linux, Git, Clang, PyQt
 
 ## Contact
 
-- emir12311.dev@gmail.com
-- https://emir12311.itch.io
+- Email: emir12311.dev@gmail.com
+- Discord: emir12311
